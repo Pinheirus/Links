@@ -23,12 +23,12 @@ export const categories: LinkCategory[] = [
       {
         id: 3,
         title: 'Aula 2,1',
-        url: 'https://drive.google.com/drive/folders/10a_CwrukOtrHBoQxUCOqLFrdn0cnyDLr?usp=sharing',
+        url: 'https://drive.google.com/file/d/1TrxW1wyArGqyhD5GxuII49gbEv37ZJk6/view?usp=drive_link',
       },
       {
         id: 4,
         title: 'Aula 2,2',
-        url: 'https://drive.google.com/drive/folders/1AEE_tb-z5IxBIumkhPHOu1kYu7o8BDB-?usp=sharing',
+        url: 'https://drive.google.com/file/d/1kqKK6IlPNFuMJa30GUvgTkqHwJp6ksXW/view?usp=drive_link',
       },
     ],
   },
