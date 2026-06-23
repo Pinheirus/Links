@@ -96,6 +96,11 @@ export const categories: LinkCategory[] = [
         title: 'Gemitourinario',
         url: 'https://share.gemini.google/WaZBwDxXb2XW',
       },
+      {
+        id: 6,
+        title: 'Membros Superiores',
+        url: 'https://share.gemini.google/0ZM6t9fV1i5t',
+      },
     ],
   },
 ]
